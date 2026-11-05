@@ -6,11 +6,11 @@ Aplicativo para Windows x64 com salas de voz, chat e compartilhamento de tela.
 
 Este endereço permanece o mesmo nas próximas atualizações.
 
-## Instalar e atualizar
+## Instalar
 
 1. Baixe `WeVoice-win-x64.zip` pelo link acima.
-2. Feche o WeVoice antes de atualizar.
-3. Extraia o ZIP completo em uma pasta. Para atualizar, substitua os arquivos da instalação anterior.
+2. Feche o WeVoice se ele já estiver aberto.
+3. Extraia o ZIP completo em uma pasta. Para uma atualização manual, substitua os arquivos da instalação anterior.
 4. Abra `WeVoice.App.exe`. Mantenha as DLLs, o modelo e as licenças ao lado do executável.
 
 O runtime .NET já está incluído. Suas configurações pessoais ficam fora da pasta
@@ -19,6 +19,23 @@ exige Windows build 20348 ou superior.
 
 Para conversar, conecte o aplicativo ao endereço do servidor da sua comunidade.
 O download não fornece um servidor público de voz.
+
+## Atualizações pelo aplicativo
+
+A partir da versão 0.1.1, o WeVoice verifica as atualizações ao abrir. Quando houver
+uma nova versão, clique em **Atualizar** para baixar, conferir e instalar o pacote.
+O aplicativo reinicia após a instalação e preserva sua identidade e configurações.
+
+Atualizações opcionais oferecem **Atualizar** ou **Agora não**. Se sua versão
+estiver abaixo da versão mínima permitida, o aviso de atualização obrigatória
+oferece somente **Atualizar** ou **Fechar** antes de permitir a entrada no aplicativo.
+
+A assinatura do aviso e os hashes dos arquivos são verificados antes da instalação.
+Se uma exigência obrigatória já foi recebida, ela também é lembrada sem conexão.
+Sem conexão e sem aviso conhecido, o aplicativo não consegue descobrir uma exigência nova.
+
+Quem usa a versão 0.1.0 precisa baixar e extrair manualmente uma última vez a
+versão com o atualizador. Essa versão antiga ainda não consulta as atualizações.
 
 O arquivo `WeVoice-win-x64.zip.sha256`, disponível em cada Release, permite conferir
 a integridade do ZIP com `Get-FileHash .\WeVoice-win-x64.zip -Algorithm SHA256`.
