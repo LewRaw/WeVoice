@@ -1,0 +1,44 @@
+WeVoice - Licença de uso do aplicativo
+Copyright (c) 2026 LewRaw. Todos os direitos reservados sobre o código original do WeVoice.
+Autor e créditos do projeto: LewRaw (https://github.com/LewRaw).
+Canal oficial de distribuição: https://github.com/LewRaw/WeVoice/releases
+
+1. Permissão de uso
+É concedida uma licença gratuita, não exclusiva, para instalar e executar as
+versões oficiais do WeVoice, inclusive para comunicação entre comunidades.
+É permitido manter cópia de segurança e compartilhar o link oficial de download.
+O aplicativo é licenciado, não vendido. Não há transferência de titularidade.
+
+2. Créditos e distribuição
+Os avisos de autoria, esta licença e os avisos de terceiros devem ser preservados.
+Não é permitido apresentar o WeVoice como criação de outra pessoa. A publicação
+de cópias do pacote, sua venda, sublicenciamento ou distribuição de versões
+alteradas exige autorização prévia e expressa do titular, ressalvados os direitos
+que não possam ser limitados por lei e as licenças próprias de terceiros.
+Atribuir créditos, por si só, não concede autorização para reutilizar o código.
+
+3. Código e engenharia reversa
+Esta licença não concede acesso ou direitos de uso sobre o código-fonte original,
+nem autoriza sua cópia, modificação ou incorporação em outros produtos. É vedado
+descompilar, desmontar ou realizar engenharia reversa do código original do
+WeVoice, exceto nos casos permitidos por lei ou mediante autorização expressa.
+Qualquer código obtido por essas técnicas permanece sujeito aos direitos de
+seus respectivos titulares; a obtenção não concede uma licença para reutilizá-lo.
+
+4. Componentes de terceiros
+Bibliotecas, modelos, runtime e outros componentes de terceiros pertencem aos
+respectivos autores e seguem suas próprias licenças e restrições. Esta licença
+não altera nem limita direitos concedidos por essas licenças. Consulte
+WeVoice-THIRD-PARTY-NOTICES.txt, DeepFilterNet-LICENSE.txt,
+DeepFilterNet-THIRD-PARTY-NOTICES.txt e RNNoise-LICENSE.txt no pacote.
+
+5. Funcionamento e responsabilidade
+O software é fornecido no estado em que se encontra, sem promessa de serviço
+ininterrupto, manutenção permanente ou disponibilidade de servidores. Na medida
+permitida pela legislação aplicável, o titular não oferece garantias adicionais
+e não responde por danos decorrentes do uso do software. Permanecem preservados
+os direitos e as responsabilidades que não possam ser afastados por lei.
+
+6. Permissões adicionais
+Para negociar uso do código, redistribuição ou outra autorização, entre em
+contato com LewRaw pelo canal oficial do projeto no GitHub.
