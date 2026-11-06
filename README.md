@@ -20,6 +20,12 @@ exige Windows build 20348 ou superior.
 Para conversar, conecte o aplicativo ao endereço do servidor da sua comunidade.
 O download não fornece um servidor público de voz.
 
+A partir de 0.1.4, use **Servidor da comunidade — automático** para receber o
+endereço oficial atualizado. O aplicativo verifica a assinatura antes de aceitar
+uma mudança. Não é preciso baixar outro EXE quando o administrador troca o túnel.
+Desmarque a opção para informar outro servidor manualmente. O modo automático
+localiza o servidor, mas não o mantém online quando o equipamento hospedeiro desliga.
+
 ## Atualizações pelo aplicativo
 
 A partir da versão 0.1.1, o WeVoice verifica as atualizações ao abrir. Quando houver
